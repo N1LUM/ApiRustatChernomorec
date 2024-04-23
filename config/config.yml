@@ -1,0 +1,138 @@
+# Куда будем заливать
+directusURL: "api.link.ru" # prod
+#directusURL: ""api.link.ru" #dev
+
+email: "email"
+password: "password"
+
+teamIDFromRustat: "77777" # Черноморец
+
+loginRustat: "login1"
+passwordRustat: "password2"
+
+seasonIDForRustat: "77"
+tournamentIDForRustat: "77"
+
+# Отношение названий команд с рустата и ID с директуса
+#teamRelation: #dev
+#  "Chernomorets": 161
+teamRelations: #prod
+  "ФК Акрон Тольятти": 78
+  "Алания Владикавказ": 76
+  "Арсенал Тула": 79
+  "Черноморец": 72
+  "Динамо Махачкала": 73
+  "КамАЗ Набережные Челны": 711
+  "Химки": 717
+  "Кубань Краснодар": 74
+  "Ленинградец": 712
+  "Нефтехимик Нижнекамск": 713
+  "Родина Москва": 719
+  "СКА-Хабаровск": 75
+  "Шинник": 718
+  "Сокол Саратов": 714
+  "Торпедо Москва": 715
+  "Тюмень": 716
+  "ФК Волгарь": 710
+  "Енисей Красноярск": 77
+  "Биолог": 721
+  "Akron": 78
+  "Alaniya Vladikavkaz": 76
+  "Arsenal Tula": 79
+  "Chernomorets": 72
+  "Dinamo Makhachkala": 73
+  "KamAZ": 711
+  "Khimki": 717
+  "Kuban Krasnodar": 74
+  "Leningradets": 712
+  "Neftekhimik": 713
+  "Rodina Moscow": 719
+  "SKA Khabarovsk": 75
+  "Shinnik": 718
+  "Sokol Saratov": 714
+  "Torpedo Moscow": 715
+  "Tyumen": 716
+  "Volgar Astrakhan": 710
+  "Enisey Krasnoyarsk": 77
+  "Biolog": 721
+
+# Отношение Имен с рустата и ID с директуса
+# На дев
+#playerRelations:
+#  "Shamil Saaduev": 7215
+#  "Daniil Frolkin": 71
+
+# На прод
+playerRelations:
+  "Magomed Abakarov": 7329
+  "Vladislav Adaev": 7157
+  "Anton Antonov": 7223
+  "Stanislav Basyrov": 7445
+  "Yuri Budagyan": 7415
+  "Artem Del'kin": 731
+  "Ivan Enin": 798
+  "Denis Fomin": 7164
+  "Daniil Frolkin": 7357
+  "Viktor Garaev": 785
+  "Aleksey Grechkin": 7154
+  "Daniil Gurchenko": 7488
+  "Ruslan Khagur": 7242
+  "Vladislav Kirilenko": 7282
+  "Nikita Klimov": 7274
+  "Dmitri Korobov": 7109
+  "Oleg Krasilnichenko": 7187
+  "Nicola Kumburovic": 7284
+  "Oleg Lanin": 7152
+  "Zikrulla Magomedov": 7262
+  "Ivan Maklakov": 7231
+  "Nikita Melnikov": 7590
+  "Nikita Nikiforov": 7589
+  "Nikita Panamarev": 7238
+  "Aleksandr Popovich": 7593
+  "Semen Puchkov": 7588
+  "Ilia Rodionov": 7598
+  "Vladislav Rudenko": 7158
+  "Shamil Saaduev": 7182
+  "Anri Tchitchinadze": 7586
+  "Merabi Uridia": 7587
+  "Artem Voropaev": 7283
+  "Ivan Zazvonkin": 7599
+  "Магомед Абакаров": 7329
+  "Владислав Адаев": 7157
+  "Антон Антонов": 7223
+  "Станислав Басыров": 7445
+  "Юрий Будагян": 7415
+  "Артем Делькин": 731
+  "Иван Енин": 798
+  "Денис Фомин": 7164
+  "Даниил Фролкин": 7357
+  "Виктор Гараев": 785
+  "Алексей Гречкин": 7154
+  "Даниил Гурченко": 7488
+  "Руслан Хагур": 7242
+  "Владислав Кириленко": 7282
+  "Никита Климов": 7274
+  "Дмитрий Коробов": 7109
+  "Олег Красильниченко": 7187
+  "Никола Кумбурович": 7284
+  "Олег Ланин": 7152
+  "Зикрулла Магомедов": 7262
+  "Иван Маклаков": 7231
+  "Никита Мельников": 7590
+  "Никита Никифоров": 7589
+  "Никита Панамарев": 7238
+  "Александр Попович": 7593
+  "Семен Пучков": 7588
+  "Илья Родионов": 7598
+  "Владислав Руденко": 7158
+  "Шамиль Саадуев": 7182
+  "Анри Чичинадзе": 7586
+  "Мераби Уридия": 7587
+  "Артем Воропаев": 7283
+  "Иван Зазвонкин": 7599
+  "Артём Делькин": 731
+  "Матвей Тюрин": 7486
+
+
+
+
